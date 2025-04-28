@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# Pomodoro Timer (OLD)
 
 A simple and effective Pomodoro Timer application to boost your productivity.
 
